@@ -59,7 +59,7 @@ ul, ol {
     color: #404bbf;
 }
 /* =====hero===== */
-.stitle-section {
+.title-section {
     background: #2e2f42;
 }
 .page-title {
@@ -68,7 +68,7 @@ ul, ol {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: white;
+    color: #ffffff;
    
 }
 .button {
@@ -77,7 +77,7 @@ ul, ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+    color:#ffffff;
     cursor: pointer;
 }
 .button:hover,
@@ -166,11 +166,20 @@ ul, ol {
 .footer-section {
     background: #2e2f42;
 }
+.solutions {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize; 
+}
 .logo_f {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -187,7 +196,7 @@ ul, ol {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spasing: 0.02em;
     color: #f4f4fd;
     
 }
