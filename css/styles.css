@@ -39,7 +39,7 @@ ul, ol {
 .nav-link:focus {
     color: #404bbf;
 }
-.addres {
+.address {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -47,14 +47,14 @@ ul, ol {
     color: #434455;
     font-style: normal;
 }
-.addres-link {
+.address-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.addres-link:hover,
-.addres-link:focus {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 /* =====hero===== */
