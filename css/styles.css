@@ -82,7 +82,7 @@ ul, ol {
 }
 .button:hover,
 .button:focus {
-    background-color: #404BBF;
+    color:#404bbf;
 }
 /* =====benefits===== */
 .benefits-title {
@@ -163,7 +163,7 @@ ul, ol {
     color: #434455;
 }
 /* =====footer====== */
-.footer-section {
+.solution {
     background: #2e2f42;
 }
 .solutions {
@@ -172,10 +172,10 @@ ul, ol {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #434455;
     text-transform: capitalize; 
 }
-.logo_f {
+.logo-t {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -184,7 +184,7 @@ ul, ol {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.logo-part_f {
+.logo-part-t {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -193,7 +193,7 @@ ul, ol {
     text-transform: uppercase;
     color: #f4f4fd;
 }
-.text {
+.text-solutions {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
