@@ -82,7 +82,7 @@ ul, ol {
 }
 .button:hover,
 .button:focus {
-    color:#404bbf;
+    color: #404BBF;
 }
 /* =====benefits===== */
 .benefits-title {
@@ -163,16 +163,16 @@ ul, ol {
     color: #434455;
 }
 /* =====footer====== */
-.solution {
+.section {
     background: #2e2f42;
 }
-.solutions {
+.section-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
+    color: #2e2f42;
     text-transform: capitalize; 
 }
 .logo-f {
@@ -193,7 +193,7 @@ ul, ol {
     text-transform: uppercase;
     color: #f4f4fd;
 }
-.text-solutions {
+.section-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
