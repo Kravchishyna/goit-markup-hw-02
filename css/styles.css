@@ -82,10 +82,10 @@ ul, ol {
     cursor: pointer;
 }
 .button:hover {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 .button:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 /* =====benefits===== */
 .benefits-title {
