@@ -81,7 +81,9 @@ ul, ol {
     color:#ffffff;
     cursor: pointer;
 }
-.button:hover,
+.button:hover {
+    color: #404bbf;
+}
 .button:focus {
     color: #404bbf;
 }
