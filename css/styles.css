@@ -14,10 +14,10 @@ ul, ol {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42; 
+    color: #4d5ae5; 
 }
     .logo-part {
     font-family: "Raleway", sans-serif;
@@ -26,7 +26,7 @@ ul, ol {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color:#2e2f42;
 }
 .nav-link {
     font-weight: 500;
@@ -72,6 +72,7 @@ ul, ol {
    
 }
 .button {
+    font-family: "Roboto", sans-serif;
     background-color:#4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -82,8 +83,7 @@ ul, ol {
 }
 .button:hover,
 .button:focus {
-    
-    color: #404BBF;
+    color: #404bbf;
 }
 /* =====benefits===== */
 .benefits-title {
